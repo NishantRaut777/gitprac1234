@@ -12,3 +12,6 @@ print(armnum)
 
 if armnum == num:
     print("Armstrong")
+
+
+print("Just change")
